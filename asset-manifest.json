@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mock_chat/static/css/main.60688f94.chunk.css",
+    "main.js": "/mock_chat/static/js/main.54326a1a.chunk.js",
+    "main.js.map": "/mock_chat/static/js/main.54326a1a.chunk.js.map",
+    "runtime-main.js": "/mock_chat/static/js/runtime-main.e32679bd.js",
+    "runtime-main.js.map": "/mock_chat/static/js/runtime-main.e32679bd.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/mock_chat/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.f33f1943.chunk.js": "/mock_chat/static/js/2.f33f1943.chunk.js",
+    "static/js/2.f33f1943.chunk.js.map": "/mock_chat/static/js/2.f33f1943.chunk.js.map",
+    "static/js/3.d7245eef.chunk.js": "/mock_chat/static/js/3.d7245eef.chunk.js",
+    "static/js/3.d7245eef.chunk.js.map": "/mock_chat/static/js/3.d7245eef.chunk.js.map",
+    "index.html": "/mock_chat/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/mock_chat/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.60688f94.chunk.css.map": "/mock_chat/static/css/main.60688f94.chunk.css.map",
+    "static/js/2.f33f1943.chunk.js.LICENSE.txt": "/mock_chat/static/js/2.f33f1943.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/mock_chat/static/media/getFetch.d7d6010d.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e32679bd.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.f33f1943.chunk.js",
+    "static/css/main.60688f94.chunk.css",
+    "static/js/main.54326a1a.chunk.js"
+  ]
+}
